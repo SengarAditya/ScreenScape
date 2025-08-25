@@ -17,7 +17,7 @@ ratings, and descriptions in a clean UI.
 -   **HTML5** -- structure of the app.
 -   **CSS3** -- styling and responsive layout.
 -   **JavaScript (Vanilla)** -- interactivity and API integration.
--   **[The Movie Database (TMDb) API](https://www.themoviedb.org/)** --
+-   **[The Movie Database (OMDb) API](https://www.themoviedb.org/)** --
     for fetching real movie data.
 
 ## 📂 Project Structure
